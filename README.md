@@ -189,4 +189,4 @@ enter description here
 
 7 我们可以反编译apk来确认插庄是否成功
 
-enter description here
+https://github.com/dodola/RocooFix/blob/master/images/QQ20160722-0.png
