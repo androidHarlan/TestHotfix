@@ -19,5 +19,6 @@ public class RocooApplication extends Application {
         RocooFix.init(this);
         RocooFix.initPathFromAssets(this, "patch.jar");
 
+
     }
 }
